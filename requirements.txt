@@ -1,0 +1,14 @@
+vllm==0.8.5
+transformers==4.51.2
+torch==2.6.0+cu124
+rdkit==2024.3.5
+fcd==1.1
+openai==1.64.0
+tqdm==4.66.5
+nltk==3.9.1
+rouge-score==0.1.2
+python-Levenshtein==0.27.3
+selfies==2.2.0
+scikit-learn==1.5.1
+pandas==2.2.2
+numpy==1.26.4

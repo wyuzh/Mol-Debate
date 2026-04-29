@@ -1,0 +1,14 @@
+cap2mol_trans_raw
+results*
+.ipynb_checkpoints
+__pycache__
+S2-Bench/data/
+ckp/
+wandb/
+predictions*/
+*.zip
+*.pyc
+*.DS_Store
+*.egg-info/
+.idea/
+.vscode/
